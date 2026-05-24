@@ -1,20 +1,21 @@
-# Привет! Я Backend Разработчик 👋
+# Всем привет! Я Backend Разработчик 👋
 
-У меня крепкий технический бэкграунд в системном администрировании и IT-поддержке, что позволяет мне не просто писать код, но и понимать, как он работает на уровне серверов и сетей. 
+У меня есть уверенный технический бэкграунд в IT-поддержке и системном администрировании. Этот опыт помогает мне писать не просто работающий код, а проектировать надежные REST API, четко понимая, как они будут вести себя на реальном сервере и взаимодействовать с сетью.
 
-Сейчас я фокусируюсь на проектировании REST API, автоматизации процессов и работе с базами данных, постепенно двигаясь в сторону архитектуры и DevOps.
+Мой главный фокус сейчас — чистая архитектура, работа с реляционными базами данных и создание масштабируемых серверных приложений.
 
 ### 🌱 Чем я занимаюсь:
-* Проектирую и разрабатываю бэкенд на **Python** (FastAPI).
-* Настраиваю взаимодействие с базами данных через **SQLAlchemy**.
-* Автоматизирую рутинные задачи с помощью скриптов на **PowerShell** и инструментов автоматизации.
-* Упаковываю приложения в **Docker** для удобного развертывания.
+* Разрабатываю быстрые и асинхронные веб-сервисы на **Python** (FastAPI).
+* Проектирую структуру БД и настраиваю взаимодействие с ними через **SQLAlchemy**.
+* Тестирую и документирую логику API с помощью **Postman**.
+* Упаковываю готовые приложения в **Docker** для независимого и стабильного развертывания.
 
 ### 🛠 Мой стек технологий:
 
 **Backend & Базы данных:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Инфраструктура & Автоматизация:**
@@ -28,7 +29,7 @@
 ---
 
 ### 📈 Статистика GitHub:
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aromihsoy&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/aromihsoy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aromihsoy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/aromihsoy)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aromihsoy&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromihsoy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</div>
