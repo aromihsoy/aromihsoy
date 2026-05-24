@@ -43,11 +43,13 @@
 [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aromihsoy&theme=tokyonight)](https://github.com/aromihsoy)
 
 
-### 🐍 Моя активность:
+### 📈 Статистика GitHub:
+
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aromihsoy/aromihsoy/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aromihsoy/aromihsoy/output/github-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/aromihsoy/aromihsoy/output/github-snake.svg">
-  </picture>
+  <a href="https://github.com/aromihsoy">
+    <img src="https://streak-stats.demolab.com/?user=aromihsoy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+  <a href="https://github.com/aromihsoy">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aromihsoy&theme=tokyonight" alt="Top Langs" />
+  </a>
 </div>
