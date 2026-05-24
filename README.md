@@ -38,8 +38,8 @@
 
 ### 📈 Статистика GitHub:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aromihsoy&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromihsoy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aromihsoy&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromihsoy&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
 </div>
 
 
