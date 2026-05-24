@@ -28,6 +28,8 @@
 **Тестирование & API:**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+[![Trophies](https://github-profile-trophy.vercel.app/?username=aromihsoy&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ### 📈 Статистика GitHub:
