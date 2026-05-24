@@ -37,10 +37,10 @@
 ---
 
 ### 📈 Статистика GitHub:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aromihsoy&show_icons=true&theme=tokyonight&hide_border=true&v=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromihsoy&layout=compact&theme=tokyonight&hide_border=true&v=1" alt="Top Languages" />
-</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aromihsoy&theme=tokyonight&hide_border=true)](https://github.com/aromihsoy)
+
+[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aromihsoy&theme=tokyonight)](https://github.com/aromihsoy)
 
 
 ### 🐍 Моя активность:
