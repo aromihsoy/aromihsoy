@@ -28,7 +28,7 @@
 ---
 
 ### 📈 Статистика GitHub:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aromihsoy&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromihsoy&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aromihsoy&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/aromihsoy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aromihsoy&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)](https://github.com/aromihsoy)
