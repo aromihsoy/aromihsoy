@@ -1,23 +1,34 @@
-🎓 Короткое, но емкое био (About Me)
-Не стоит писать целое сочинение. Хватит 3–4 строчек о том, кто ты и куда развиваешься. Учитывая твой опыт решения инфраструктурных задач и перехода в бэкенд, можно сфокусироваться на стыке этих областей: разработке сервисов и автоматизации.
+# Привет! Я Backend Разработчик 👋
 
-🌱 Чем сейчас занимаюсь (например, углубляю знания в архитектуре REST API).
+У меня крепкий технический бэкграунд в системном администрировании и IT-поддержке, что позволяет мне не просто писать код, но и понимать, как он работает на уровне серверов и сетей. 
 
-⚙️ Что изучаю (базы данных, контейнеризацию).
+Сейчас я фокусируюсь на проектировании REST API, автоматизации процессов и работе с базами данных, постепенно двигаясь в сторону архитектуры и DevOps.
 
-📫 Как со мной связаться (ссылка на Telegram или LinkedIn).
-
-💻 Стек технологий (Бейджи)
-Вместо того чтобы просто писать текст, используют красивые цветные плашки (badges). Они мгновенно считываются рекрутерами. Выглядит это примерно так в коде:
+### 🌱 Чем я занимаюсь:
+* Проектирую и разрабатываю бэкенд на **Python** (FastAPI).
+* Настраиваю взаимодействие с базами данных через **SQLAlchemy**.
+* Автоматизирую рутинные задачи с помощью скриптов на **PowerShell** и инструментов автоматизации.
+* Упаковываю приложения в **Docker** для удобного развертывания.
 
 ### 🛠 Мой стек технологий:
+
+**Backend & Базы данных:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Инфраструктура & Автоматизация:**
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-📊 Динамическая статистика
-Есть потрясающий открытый проект github-readme-stats. Он позволяет одной строчкой кода вставить красивую карточку, которая сама обновляется каждый день и показывает твои достижения (сколько коммитов сделал, какие языки используешь чаще всего).
 
-### 📈 Статистика:
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИК&show_icons=true&theme=tokyonight)
-![Любимые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=aromihsoy&l
+**Тестирование & API:**
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 📈 Статистика GitHub:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aromihsoy&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aromihsoy&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
