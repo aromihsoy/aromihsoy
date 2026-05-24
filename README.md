@@ -38,13 +38,6 @@
 
 ### 📈 Статистика GitHub:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=aromihsoy&theme=tokyonight&hide_border=true)](https://github.com/aromihsoy)
-
-[![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aromihsoy&theme=tokyonight)](https://github.com/aromihsoy)
-
-
-### 📈 Статистика GitHub:
-
 <div align="center">
   <a href="https://github.com/aromihsoy">
     <img src="https://streak-stats.demolab.com/?user=aromihsoy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
