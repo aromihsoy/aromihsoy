@@ -1,6 +1,6 @@
 <div align="center">
 Всем привет! Я Backend Разработчик 👋
-
+</div>
 ![Views](https://komarev.com/ghpvc/?username=aromihsoy&color=blue&style=flat-square)
 
 <a href="https://github.com/aromihsoy"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2CA5E0&center=true&vCenter=true&width=435&lines=Backend+Developer;Python+%7C+FastAPI+%7C+PostgreSQL;IT+Infrastructure+Enthusiast&v=1" alt="Typing SVG" /></a>
@@ -63,5 +63,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aromihsoy/aromihsoy/output/github-snake.svg">
     <img alt="GitHub Snake" src="https://raw.githubusercontent.com/aromihsoy/aromihsoy/output/github-snake.svg">
   </picture>
-</div>
 </div>
