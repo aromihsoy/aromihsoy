@@ -1,4 +1,4 @@
-<img width="506" height="559" alt="{6534CFDE-F4CE-4949-9F0B-E6F7D4D53291}" src="https://github.com/user-attachments/assets/d6dcdfb6-0cea-4772-a363-a2a6b5703aa5" /># Всем привет! Я Backend Разработчик 👋
+Всем привет! Я Backend Разработчик 👋
 
 ![Views](https://komarev.com/ghpvc/?username=aromihsoy&color=blue&style=flat-square)
 
