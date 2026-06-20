@@ -1,3 +1,4 @@
+<div align="center">
 Всем привет! Я Backend Разработчик 👋
 
 ![Views](https://komarev.com/ghpvc/?username=aromihsoy&color=blue&style=flat-square)
@@ -62,4 +63,5 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aromihsoy/aromihsoy/output/github-snake.svg">
     <img alt="GitHub Snake" src="https://raw.githubusercontent.com/aromihsoy/aromihsoy/output/github-snake.svg">
   </picture>
+</div>
 </div>
