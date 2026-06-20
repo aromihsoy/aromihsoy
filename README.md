@@ -20,12 +20,11 @@
 
 **Backend & Базы данных:**
 
-![](https://skillicons.dev/icons?i=py,go,fastapi,django,git,githubactions,nginx,postgres,sqlite,redis,rabbitmq)
+![](https://skillicons.dev/icons?i=py,go,fastapi,django,githubactions,nginx,postgres,sqlite,redis,rabbitmq)
 
 **Инфраструктура & Автоматизация:**
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+![](https://skillicons.dev/icons?i=docker,powershell,git)
 
 **Тестирование & API:**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
