@@ -23,6 +23,8 @@
 
 ### 🛠 Мой стек технологий:
 
+**IDE:**
+
 ![](https://skillicons.dev/icons?i=vscode,pycharm,visualstudio)
 
 **Backend & Базы данных:**
