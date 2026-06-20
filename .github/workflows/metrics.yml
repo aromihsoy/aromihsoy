@@ -1,0 +1,23 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}]   # раз в сутки
+  workflow_dispatch:                 # запуск вручную
+  push: {branches: ["main"]}         # поправь, если ветка master
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write                # нужно, чтобы коммитить svg
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: aromihsoy
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Moscow
+          # аналог трофеев:
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_threshold: C
