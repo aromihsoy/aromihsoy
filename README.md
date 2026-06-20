@@ -20,7 +20,7 @@
 
 **Backend & Базы данных:**
 
-![](https://skillicons.dev/icons?i=py,go,fastapi,django,git,githubactions,nginx,postgres,sqlite3,redis,rabbitmq)
+![](https://skillicons.dev/icons?i=py,go,fastapi,django,git,githubactions,nginx,postgres,sqlite,redis,rabbitmq)
 
 **Инфраструктура & Автоматизация:**
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
