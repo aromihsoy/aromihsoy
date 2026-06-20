@@ -19,6 +19,7 @@
 ### 🛠 Мой стек технологий:
 
 **Backend & Базы данных:**
+
 ![](https://skillicons.dev/icons?i=py,go,fastapi,django,git,githubactions,nginx,postgres,sqlalchemy,redis,rabbitmq)
 
 **Инфраструктура & Автоматизация:**
