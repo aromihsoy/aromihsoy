@@ -36,7 +36,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=aromihsoy&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+![Metrics](./github-metrics.svg)
 
 ---
 
