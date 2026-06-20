@@ -27,8 +27,8 @@
 ![](https://skillicons.dev/icons?i=docker,powershell,git)
 
 **Тестирование & API:**
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+![](https://skillicons.dev/icons?i=postman,websockets)
 
 ---
 
