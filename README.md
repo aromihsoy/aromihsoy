@@ -39,13 +39,14 @@
 
 ![](https://skillicons.dev/icons?i=postman)
 
----
 
-![](https://github-readme-stats-fast.vercel.app/api?username=aromihsoy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-
----
 
 ### 📈 Статистика GitHub:
+---
+<div align="center">
+![](https://github-readme-stats-fast.vercel.app/api?username=aromihsoy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+</div>
+---
 
 <div align="center">
   <a href="https://github.com/aromihsoy">
