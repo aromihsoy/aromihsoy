@@ -28,7 +28,7 @@
 
 **Тестирование & API:**
 
-![](https://skillicons.dev/icons?i=postman,websockets)
+![](https://skillicons.dev/icons?i=postman)
 
 ---
 
