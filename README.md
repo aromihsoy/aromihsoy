@@ -18,7 +18,7 @@
 
 ### 🛠 Мой стек технологий:
 
-![](https://skillicons.dev/icons?i=vscode,pycharm,vsstudio)
+![](https://skillicons.dev/icons?i=vscode,pycharm,visualstudio)
 
 **Backend & Базы данных:**
 
