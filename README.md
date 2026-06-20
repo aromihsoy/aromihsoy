@@ -61,7 +61,11 @@
 
 ---
 
+<div align="center">
+
 ![](https://github-profile-trophy-tawny.vercel.app/?username=aromihsoy&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
 
 ---
 
