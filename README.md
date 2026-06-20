@@ -36,8 +36,6 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-![Metrics](./github-metrics.svg)
-
 ---
 
 ### 📈 Статистика GitHub:
