@@ -1,5 +1,4 @@
 <h1 align="center">
-  Всем привет! Я Backend-разработчик
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
 </h1>
 
