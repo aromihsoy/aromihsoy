@@ -31,7 +31,7 @@ Backend-разработчик с опытом в IT-инфраструктур�
 
 **IDE:**
 
-![](https://skillicons.dev/icons?i=vscode,pycharm,visualstudio)
+![](https://skillicons.dev/icons?i=vscode,pycharm)
 
 **Backend & Базы данных:**
 
@@ -53,12 +53,6 @@ Backend-разработчик с опытом в IT-инфраструктур�
 <div align="center">
   <img src="https://raw.githubusercontent.com/aromihsoy/github-stats/generated/overview.svg" alt="Stats" />
   <img src="https://raw.githubusercontent.com/aromihsoy/github-stats/generated/languages.svg" alt="Languages" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aromihsoy&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 ---
