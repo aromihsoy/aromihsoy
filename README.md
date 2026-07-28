@@ -51,8 +51,8 @@ Backend-разработчик с опытом в IT-инфраструктур�
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aromihsoy/aromihsoy/stats-output/generated/overview.svg" alt="Stats" />
-  <img src="https://raw.githubusercontent.com/aromihsoy/aromihsoy/stats-output/generated/languages.svg" alt="Languages" />
+  <img src="https://raw.githubusercontent.com/aromihsoy/github-stats/generated/overview.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/aromihsoy/github-stats/generated/languages.svg" alt="Languages" />
 </div>
 
 ---
