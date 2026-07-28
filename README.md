@@ -51,18 +51,8 @@ Backend-разработчик с опытом в IT-инфраструктур�
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=aromihsoy&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
----
-
-<div align="center">
-  <a href="https://github.com/aromihsoy">
-    <img src="https://streak-stats.demolab.com/?user=aromihsoy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/aromihsoy">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aromihsoy&theme=tokyonight" alt="Top Langs" />
-  </a>
+  <img src="https://raw.githubusercontent.com/aromihsoy/aromihsoy/stats-output/generated/overview.svg" alt="Stats" />
+  <img src="https://raw.githubusercontent.com/aromihsoy/aromihsoy/stats-output/generated/languages.svg" alt="Languages" />
 </div>
 
 ---
