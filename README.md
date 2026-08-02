@@ -59,7 +59,6 @@ Backend-разработчик с опытом в IT-инфраструктур�
 
 ---
 
-### 🐍 Моя активность:
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aromihsoy/aromihsoy/output/github-snake-dark.svg">
