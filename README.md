@@ -9,8 +9,6 @@
 </div>
 
 
-### 🛠 Мой стек технологий:
-
 **IDE:**
 
 ![](https://skillicons.dev/icons?i=vscode,pycharm)
